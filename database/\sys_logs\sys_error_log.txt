@@ -1,0 +1,2 @@
+[2024-08-26 13:01:16] ERROR: no such table: log
+[2024-08-26 13:01:16] ERROR: error test: Hello World
